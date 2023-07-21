@@ -1,0 +1,11 @@
+.cursor {
+    position: absolute;
+    background-image: url('./free-icon-gavel-1890412.png');
+    width: 30px;
+    height: 30px;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 999;
+}
+
+/* <a href="https://www.flaticon.com/ru/free-icons/" title="молоток иконки">Молоток иконки от Freepik - Flaticon</a> */
